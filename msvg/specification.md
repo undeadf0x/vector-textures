@@ -1,4 +1,4 @@
-> [!IMPORTANT] Important
+> [!IMPORTANT]
 > This specification is purely conceptual at the moment, and no tools exist to use this specification.
 
 # MSVG v0.0
